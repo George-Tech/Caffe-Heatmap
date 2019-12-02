@@ -26,3 +26,7 @@ Some layers : data_transform, bbox_util, im_tansforms, caffeproto are also chang
 Check models/slot-mbnv2-deep-down4.
 I use mobilenetv2 as backbones to get key points.
 ![images](https://github.com/George-Tech/Misc/blob/master/Images/1_0411_1_000158_draw_map0.jpg)
+
+Person Pose on FLIC.
+
+![images](https://github.com/George-Tech/Misc/blob/master/Images/12-oclock-high-special-edition-00016481_draw_map0.jpg)
